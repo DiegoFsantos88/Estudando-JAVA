@@ -1,4 +1,4 @@
-public class EstudoMetodos {
+/*public class EstudoMetodos {
 
     class Garrafa {
         float volume;
@@ -36,11 +36,11 @@ public class EstudoMetodos {
             resultado = soma(12.1, 34.3);
 //        System.out.println(resultado);
 
-            Garrafa garrafa = new Garrafa();
+         /*   Garrafa garrafa = new Garrafa();
             garrafa.volume = 1.5F;
 
             float volumeGarrafa = garrafa.obterVolume();
             System.out.println(volumeGarrafa + " Litros");
         }
     }
-}
+}*/

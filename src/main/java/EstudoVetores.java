@@ -1,8 +1,8 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
-public class EstudoVetores {
+//public class EstudoVetores {
 
-    public static void main(String[] args) {
+ //   public static void main(String[] args) {
 //        int[] nums = {1, 2, 3, 4, 5}; // vetor de numeros inteiros
 //        double[] notas = new double[60]; // declara um vetor double vazio com 60 posições
 //
@@ -27,7 +27,7 @@ public class EstudoVetores {
 //        }
 //        System.out.println(); // quebra de linha
 
-        Scanner scanner = new Scanner(System.in);
+/*        Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o números de notas");
         int nNotas = scanner.nextInt();
         double[] notas = new double[nNotas];
@@ -40,4 +40,4 @@ public class EstudoVetores {
         media /= nNotas; // calculo da media com base no numeros de notas
         System.out.printf("A média é igual a %.2f", media);
     }
-}
+}*/
