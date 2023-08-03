@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/*
 public class EstudoListas {
 
     public static void main(String[] args) {
@@ -56,4 +56,4 @@ public class EstudoListas {
 //        Long long
 //        Float float
     }
-}
+}*/

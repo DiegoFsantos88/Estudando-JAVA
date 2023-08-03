@@ -1,3 +1,5 @@
+package aula_2807;
+
 import java.util.Scanner;
 
 public class EstudoStrings {

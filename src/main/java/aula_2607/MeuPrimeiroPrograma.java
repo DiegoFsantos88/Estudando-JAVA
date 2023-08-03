@@ -1,3 +1,5 @@
+package aula_2607;
+
 /*
  * Um programa JAVA, deve ter o nome bem definido. Seguindo o PascalCase:
  * - BatataAssada

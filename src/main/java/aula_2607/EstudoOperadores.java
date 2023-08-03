@@ -1,3 +1,5 @@
+package aula_2607;
+
 public class EstudoOperadores {
     public static void main(String[] args) {
         // Operadores matemáticos
