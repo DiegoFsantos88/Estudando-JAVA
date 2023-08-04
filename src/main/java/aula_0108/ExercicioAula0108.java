@@ -15,7 +15,7 @@ enum EstacoesDoAno {
 }
 
 
-public class Exercicio0108 {
+public class ExercicioAula0108 {
 
     public static Double media(List<Double> numeros) {
         Double total = 0.0;
